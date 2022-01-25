@@ -1,7 +1,7 @@
 ### Hi there, I'm SK - aka [Falcon][website] 👋 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://about.me/sriksven)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.youtube.com/c/ProfSpud)
+[![Youtube Follow](https://img.shields.io/youtube/channel/views/UCBkZGtQ6tQWzCseujiS4CXQ?style=social)](https://www.youtube.com/c/ProfSpud)
 
 ## I'm a Technophile 2021 Graduate working for Altimetrik !!
 
