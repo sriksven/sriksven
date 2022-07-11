@@ -6,9 +6,9 @@
 ## I'm a Technophile 2021 Graduate working for Altimetrik !
 
 - 🌱 I’m currently working on APIs
-- 🥅 2022 Goals: Contribute more to Open Source projects and contribute to Github everyday
-- ⚡ Fun fact 1: I love to cook, play CSGO and the Carnatic Flute 
-- ⚡ Fun fact 2: I enjoy playing Cricket, Badminton and, Squash.
+<!-- - 🥅 2022 Goals: Contribute more to Open Source projects and contribute to Github everyday -->
+- ⚡ Fun fact 1: I play the Carnatic Flute 
+- ⚡ Fun fact 1: I enjoy coding, cooking, playing Cricket, Badminton, Squash and CSGO.
 
 My custom cipher - [Fal3014]
 
