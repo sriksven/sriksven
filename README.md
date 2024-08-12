@@ -1,8 +1,7 @@
 
 ### Hi there, I'm Krishna  👋 
 
-[![Website](https://img.shields.io/badge/More%20about%3A-Me-orange)](https://about.me/sriksven)
-[![Youtube Follow](https://img.shields.io/youtube/channel/views/UCBkZGtQ6tQWzCseujiS4CXQ?style=social)](https://www.youtube.com/c/ProfSpud)
+
 
 I'm a Data Science grad student at Northeastern University!
 ⚡ Fun fact: I play the Carnatic Flute and enjoy coding.
@@ -10,7 +9,8 @@ I'm a Data Science grad student at Northeastern University!
 🍳 I enjoy cooking and trying out new recipes.
 🚴 I cycle regularly to stay fit.
 
-
+[![Website](https://img.shields.io/badge/More%20about%3A-Me-orange)](https://about.me/sriksven)
+[![Youtube Follow](https://img.shields.io/youtube/channel/views/UCBkZGtQ6tQWzCseujiS4CXQ?style=social)](https://www.youtube.com/c/ProfSpud)
 
 ### Connect with me:
 
