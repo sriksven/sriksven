@@ -54,3 +54,6 @@ I'm a Data Science grad student at Northeastern University!
 [instagram]: https://www.instagram.com/_sk46_/
 [linkedin]: https://www.linkedin.com/in/sriksven/
 [Fal3014]: https://falcon046.github.io/FAL3014/
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriksven)](https://github.com/anuraghazra/github-readme-stats)
