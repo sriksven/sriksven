@@ -56,6 +56,6 @@ I'm a Data Science grad student at Northeastern University!
 [Fal3014]: https://falcon046.github.io/FAL3014/
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriksven)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriksven&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriksven&layout=compact)
