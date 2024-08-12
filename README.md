@@ -1,5 +1,5 @@
 
-### Hi there, I'm Krishna - [website] 👋 
+### Hi there, I'm Krishna  👋 
 
 [![Website](https://img.shields.io/badge/More%20about%3A-Me-orange)](https://about.me/sriksven)
 [![Youtube Follow](https://img.shields.io/youtube/channel/views/UCBkZGtQ6tQWzCseujiS4CXQ?style=social)](https://www.youtube.com/c/ProfSpud)
