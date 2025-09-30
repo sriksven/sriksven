@@ -96,7 +96,7 @@
 ### 📊 GitHub Stats  
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriksven&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriksven&layout=compact&theme=radical)  
-
+![Profile Views](https://komarev.com/ghpvc/?username=sriksven&label=Profile%20Views&color=0e75b6&style=flat)
 ---
 [![Youtube Views](https://img.shields.io/youtube/channel/views/UCBkZGtQ6tQWzCseujiS4CXQ?style=social)](https://www.youtube.com/c/ProfSpud)
 
