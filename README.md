@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C0FF&width=900&lines=🚀+Data+Scientist+%7C+MLOps+Engineer+%7C+LLM+Enthusiast;✈️+Aviation+Geek+%7C+Drone+Hobbyist+🛸;🍳+Foodie+Exploring+New+Recipes;⚡+AI+Copilots%2C+RAG+%26+LLMs;🎶+Carnatic+Flute+Player+%26+Badminton+Lover)](https://git.io/typing-svg)
 
-[![Youtube Views](https://img.shields.io/youtube/channel/views/UCBkZGtQ6tQWzCseujiS4CXQ?style=social)](https://www.youtube.com/c/ProfSpud)
 
 ---
 
@@ -99,5 +98,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriksven&layout=compact&theme=radical)  
 
 ---
+[![Youtube Views](https://img.shields.io/youtube/channel/views/UCBkZGtQ6tQWzCseujiS4CXQ?style=social)](https://www.youtube.com/c/ProfSpud)
 
 ✨ *Data is my language, AI is my playground, food is my fuel 🍕, and the skies are my inspiration ✈️🛸* 🚀
