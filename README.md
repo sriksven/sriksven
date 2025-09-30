@@ -41,18 +41,21 @@
 
 ### ⚙️ Tech Stack & Tools  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-F0C929?logo=huggingface&logoColor=black)  
-![LangChain](https://img.shields.io/badge/-LangChain-00A67E?logo=chainlink&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white)  
-![GCP](https://img.shields.io/badge/-GoogleCloud-4285F4?logo=googlecloud&logoColor=white)  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=black)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-F0C929?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-00A67E?logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleCloud-4285F4?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=black" />
+</p>
+
 
 ---
 
