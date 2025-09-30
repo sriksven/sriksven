@@ -63,27 +63,36 @@
 
 <p align="center">
   <a href="https://about.me/sriksven">
-    <img src="https://img.shields.io/badge/More%20about%3A-Me-orange" />
+    <img src="https://img.shields.io/badge/🌐-Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://clickcraft.myportfolio.com/">
-    <img src="https://img.shields.io/badge/-Photography-ff69b4?logo=adobecreativecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/📸-Photography-ff69b4?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sriksven/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/sriksven">
-    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🐙-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/c/ProfSpud">
-    <img src="https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/🎬-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://twitter.com/Sriks_venk">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_sk46_/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/📷-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBukhkP5vUenP4c/giphy.gif" width="60">  
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">  
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="60">  
+</p>
+
 
 ---
 
