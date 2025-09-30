@@ -26,7 +26,6 @@
 - 🤖 Fine-tuning **LLaMA-3, Mistral** with LoRA/QLoRA  
 - 📊 MLOps pipelines (Azure ML, Airflow, Docker, K8s, CI/CD)  
 - ✈️ Exploring **Aviation + AI** → ATC transcript analysis, flight safety AI, and drone vision  
-- 🍳 Dream project: **Data-Driven Recipe Recommender** (food + AI + personalization)  
 
 ---
 
