@@ -32,8 +32,6 @@
 - **Agri Data Hackathon (USDA)** 🥇: 1st place with SARIMA + spatiotemporal modeling  
 - **RAG Literature Assistant (Saint-Gobain)**: 100+ researchers/day, 96% faster lookups  
 - **Real-Time Drowsiness Detection** 🚗💤: CNN + OpenCV, 95.6% accuracy  
-- **Drone Vision Prototype** 🛸: Object detection + flight telemetry integration (work-in-progress)  
-
 ---
 
 ### ⚙️ Tech Stack & Tools  
