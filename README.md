@@ -60,6 +60,7 @@
 ---
 
 ### 🌎 Connect with Me  
+<p align="center">
 [![Website](https://img.shields.io/badge/More%20about%3A-Me-orange)](https://about.me/sriksven)  
 [![Photography](https://img.shields.io/badge/-Photography-ff69b4?logo=adobecreativecloud&logoColor=white)](https://clickcraft.myportfolio.com/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriksven/)  
@@ -67,7 +68,7 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/c/ProfSpud)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Sriks_venk)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_sk46_/)
-
+</p>
 ---
 
 ### 📊 GitHub Stats  
