@@ -93,6 +93,16 @@
 
 ### 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriksven&layout=compact&theme=radical)  
+
+---
+## 📊 My GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriksven&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sriksven&theme=tokyonight&hide_border=true)
+
+</div>
 ---
 [![Youtube Views](https://img.shields.io/youtube/channel/views/UCBkZGtQ6tQWzCseujiS4CXQ?style=social)](https://www.youtube.com/c/ProfSpud)
 
