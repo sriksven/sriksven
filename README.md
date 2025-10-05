@@ -106,6 +106,7 @@
 
 </div>
 ---
+
 [![Youtube Views](https://img.shields.io/youtube/channel/views/UCBkZGtQ6tQWzCseujiS4CXQ?style=social)](https://www.youtube.com/c/ProfSpud)
 
 ✨ *Data is my language, AI is my playground, food is my fuel 🍕, and the skies are my inspiration ✈️🛸* 🚀
