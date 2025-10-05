@@ -97,7 +97,7 @@
 ---
 ## 📊 My GitHub Activity
 
-<div align="center">
+<div align="left">
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriksven&show_icons=true&theme=tokyonight) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sriksven&theme=tokyonight&hide_border=true)
