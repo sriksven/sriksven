@@ -95,8 +95,11 @@
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriksven&layout=compact&theme=radical)  
+
 </div>
+
 ---
+
 ## 📊 My GitHub Activity
 
 <div align="center">
@@ -105,6 +108,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sriksven&theme=tokyonight&hide_border=true)
 
 </div>
+
 ---
 
 [![Youtube Views](https://img.shields.io/youtube/channel/views/UCBkZGtQ6tQWzCseujiS4CXQ?style=social)](https://www.youtube.com/c/ProfSpud)
