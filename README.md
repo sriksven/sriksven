@@ -92,12 +92,13 @@
 ---
 
 ### 📊 GitHub Stats  
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriksven&layout=compact&theme=radical)  
-
+</div>
 ---
 ## 📊 My GitHub Activity
 
-<div align="left">
+<div align="center">
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriksven&show_icons=true&theme=tokyonight) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sriksven&theme=tokyonight&hide_border=true)
