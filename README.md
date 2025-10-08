@@ -14,8 +14,8 @@
 - 📸 Check out my **photography portfolio** → [ClickCraft](https://clickcraft.myportfolio.com/)  
 - 🍲 Foodie → always exploring new **recipes & cuisines**  
 - 🎶 Fun fact: I play the **Carnatic Flute**  
-- 🎾 Love playing **badminton & squash** (and sometimes CSGO 🎮)  
-- 🚴 Fitness = long **cycling rides** around Boston  
+- 🎾 Love playing **badminton & squash** and  CSGO 🎮
+- 🚴 Fitness =  **cycling rides** in Boston  
 
 ---
 
