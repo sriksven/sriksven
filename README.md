@@ -95,10 +95,9 @@
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriksven&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriksven&show_icons=true&locale=en)
 
 </div>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriksven&show_icons=true&locale=en)
 
 
 ---
