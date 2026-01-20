@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C0FF&width=900&lines=Data+Scientist+%7C+MLOps+Engineer+%7C+LLM+Enthusiast;Aviation+Geek+%7C+Drone+Hobbyist;Foodie+Exploring+New+Recipes;AI+Copilots%2C+RAG+%26+LLMs;Carnatic+Flute+Player+%26+Badminton+Lover)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sriksven&color=00C0FF&style=flat-square&label=Profile+Views" />
+</p>
+
 ---
 
 ### About Me
