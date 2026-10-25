@@ -25,11 +25,19 @@
 ---
 
 ### Current Focus
-- **Notewise** <!-- add repo link -->
-  - Local-first meeting intelligence engine written in **Rust**
-  - <!-- add 1–2 lines: what it does, key features -->
+- **[Notewise](https://github.com/sriksven/Notewise)** · [site](https://sriksven.github.io/Notewise/)
+  - Local-first meeting intelligence platform in **Rust**: meetings are captured and understood on-device, then turned into notes, tickets, draft follow-up emails and notifications, all linked in one queryable object graph
+  - Full pipeline: capture → mix → transcribe (Whisper, **37.6x realtime on Metal**) → diarize → store
+  - Pluggable `ai-router`: local Ollama / LM Studio by default, or Anthropic, Gemini, Groq, OpenRouter and any OpenAI-compatible endpoint by config
+  - Tauri desktop app (React UI), CLI, REST API and MCP server; open-core (MIT core, BSL cloud)
 
-- **PDF Scroll** <!-- add repo link -->
+- **[Wealth & Finance Manager 2.0](https://github.com/sriksven/Wealth-and-Finance-Manager-2.0)** · [live app](https://sriksven.github.io/Wealth-and-Finance-Manager-2.0/)
+  - Privacy-first personal finance tracker with double-entry bookkeeping across bank accounts, credit cards, cash and friend ledgers
+  - Natural-language Quick Add, CSV import with duplicate detection, split expenses, shared ledgers, recurring bills, cash-flow projection, debt payoff and card optimiser
+  - Atomic Firestore batch writes keep every transaction and its balance changes consistent; installable PWA with real-time sync
+  - Tech stack: React 19, TypeScript, Vite, Tailwind, Firebase, Chart.js, Vitest, GitHub Actions
+
+- **[ScrollPDF](https://github.com/sriksven/scrollpdf)**
   - <!-- add 1–2 lines: what it does -->
   - <!-- tech stack -->
 
@@ -93,6 +101,10 @@
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/vLLM-30A2FF?logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
@@ -125,6 +137,9 @@
   </a>
   <a href="https://github.com/sriksven">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/sriksven">
+    <img src="https://img.shields.io/badge/HuggingFace-F0C929?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
   <a href="https://www.youtube.com/c/ProfSpud">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />
