@@ -37,9 +37,11 @@
   - Atomic Firestore batch writes keep every transaction and its balance changes consistent; installable PWA with real-time sync
   - Tech stack: React 19, TypeScript, Vite, Tailwind, Firebase, Chart.js, Vitest, GitHub Actions
 
-- **[ScrollPDF](https://github.com/sriksven/scrollpdf)**
-  - <!-- add 1–2 lines: what it does -->
-  - <!-- tech stack -->
+- **[ScrollPDF](https://scrollpdf.com/)** · [repo](https://github.com/sriksven/PDF-Tools-Suite)
+  - Privacy-first PDF suite where files never leave the device: **31 browser-side tools** for organizing, editing, converting, securing and reviewing PDFs
+  - Annotation editor with inline text replacement, drag-and-drop page reordering, AcroForm detection and flattening, burned-in redaction, signing and protect/unlock
+  - Pixel-diff PDF comparison, two-stage repair (structural resave with a rendered-page rebuild fallback), and Word/Excel/PowerPoint/HTML ↔ PDF conversion
+  - Tech stack: Next.js 15, React 19, TypeScript, Tailwind, pdf-lib, PDF.js, dnd-kit; CI with lint, typecheck, unit and E2E tests
 
 ---
 
@@ -102,6 +104,7 @@
   <img src="https://img.shields.io/badge/vLLM-30A2FF?logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" />
